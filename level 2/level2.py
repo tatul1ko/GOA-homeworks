@@ -1,0 +1,1 @@
+print("tato buxrashvili" " " + " " "andria lejava" " " + " " "giorgi varadashvili")
